@@ -1,0 +1,19 @@
+img{
+    box-shadow:  1px tomato;
+    height: 200px;
+}
+table{
+    box-shadow: 46px 45px 71px -8px rgba(0,0,0,0.75);
+    border: 5px solid cadetblue;
+    margin: auto;
+}
+td{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    border: 2px dotted tomato;
+    background-color: rgb(232, 232, 232);
+}
+.lista{
+    text-align: left;
+}
